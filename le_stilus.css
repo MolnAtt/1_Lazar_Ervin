@@ -1,0 +1,99 @@
+﻿body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	padding: 0px;
+}
+
+p{
+	text-align:justify;
+	padding: 5px;
+}
+
+hr {
+	display: block;
+	margin-top: 8px;
+	border-style: inset;
+	border-width: 1px;
+	width: 50%;
+	text-align: center;
+}
+
+h1, h2 {
+	color:#EB6160;
+	padding: 5px;
+}
+
+h2 {
+	font-size: 17px;
+}
+
+#fejlec {
+	padding: 10px;
+	background-color: #EB6160;
+	font-weight: bold;
+	font-size:30px;
+	text-align: right;
+	color:white;
+}
+
+#tartalom {
+	margin: 0 auto 0 auto; 
+	width: 1000px;
+	padding: 0px;
+	text-align: justify;
+	border:0;
+	background-color: white;
+}
+
+#oszlop1, #oszlop3 {
+
+	float: left;
+	padding: 0px;
+	background-color: #ffffff;
+}
+
+#oszlop2{
+
+	float: left;
+	padding: 0px;
+	background-color: #ffffff;
+}
+
+#lablec {
+    clear: both;
+    background-color: #ffffff;
+}
+
+.logo{
+	float:left;
+
+}
+
+.kep {
+	padding: 0px 10px;
+	border: 0;
+	width: 190px;
+}
+
+.kepalairas{
+	font-size: 9px;
+	text-align: center;
+}
+
+.szurke{
+	color: #c7c7c7;
+}
+
+a:link, a:active, a:visited, a:hover {
+
+}
+
+#oszlop1, #oszlop2, #oszlop3{
+	vertical-align: top;
+}
+
+table{
+	margin: 0 auto;
+	width: 1000px;
+}
